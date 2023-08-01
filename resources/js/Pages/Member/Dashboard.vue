@@ -4,7 +4,7 @@
 
 <template>
 <h1>
-    Admin
+    member
 </h1>
 </template>
 
